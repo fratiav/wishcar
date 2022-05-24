@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wishcar/static/css/main.073c9b0a.css",
-    "main.js": "/wishcar/static/js/main.0c3b891b.js",
+    "main.js": "/wishcar/static/js/main.65e07977.js",
     "static/js/787.121a0e85.chunk.js": "/wishcar/static/js/787.121a0e85.chunk.js",
     "static/media/logo.svg": "/wishcar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/wishcar/index.html",
     "main.073c9b0a.css.map": "/wishcar/static/css/main.073c9b0a.css.map",
-    "main.0c3b891b.js.map": "/wishcar/static/js/main.0c3b891b.js.map",
+    "main.65e07977.js.map": "/wishcar/static/js/main.65e07977.js.map",
     "787.121a0e85.chunk.js.map": "/wishcar/static/js/787.121a0e85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0c3b891b.js"
+    "static/js/main.65e07977.js"
   ]
 }
